@@ -1,0 +1,12 @@
+D:\Programing\CSharp\LessonObserver\STTTest\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+D:\Programing\CSharp\LessonObserver\STTTest\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+D:\Programing\CSharp\LessonObserver\STTTest\bin\x64\Debug\STTTest.exe
+D:\Programing\CSharp\LessonObserver\STTTest\bin\x64\Debug\STTTest.pdb
+D:\Programing\CSharp\LessonObserver\STTTest\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Programing\CSharp\LessonObserver\STTTest\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\Programing\CSharp\LessonObserver\STTTest\obj\x64\Debug\STTTest.csprojAssemblyReference.cache
+D:\Programing\CSharp\LessonObserver\STTTest\obj\x64\Debug\STTTest.csproj.CoreCompileInputs.cache
+D:\Programing\CSharp\LessonObserver\STTTest\obj\x64\Debug\STTTest.csproj.CopyComplete
+D:\Programing\CSharp\LessonObserver\STTTest\obj\x64\Debug\STTTest.exe
+D:\Programing\CSharp\LessonObserver\STTTest\obj\x64\Debug\STTTest.pdb
+D:\Programing\CSharp\LessonObserver\STTTest\bin\x64\Debug\SpeechClient.dll
